@@ -1,5 +1,7 @@
 # Node.js
 node_modules/
+/client/node_modules/
+/serveur/node_modules/
 dist/
 
 # Logs
