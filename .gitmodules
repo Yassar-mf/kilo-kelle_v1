@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/Yassar-mf/kilo-kelle-client.git
+[submodule "serveur"]
+	path = serveur
+	url = https://github.com/Yassar-mf/kilo-kelle-serveur.git
